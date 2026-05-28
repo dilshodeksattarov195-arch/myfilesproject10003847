@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartconnect",
+        "uuid": 4824138,
+        "checksum": "60gs3"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
